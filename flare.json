@@ -1,0 +1,47 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "My skills",
+   "children": [
+
+    
+    {
+     "name": "cluster",
+     "children": [
+      {"name": "HTML", "size": 2014},
+      {"name": "CSS", "size": 2012},
+      {"name": "Web Developer", "size": 3000}
+     ]
+    },{
+     "name": "Ruby",
+     "children": [
+      {"name": "Ruby On Rails", "size": 2534}
+     
+     ]
+    },{ "name": "javascript", "size": 2000
+    },
+    {
+     "name": "Command Line", "size": 540
+     
+    },{
+     "name": "CSS",
+     "children": [
+      {"name": "Bootstrap", "size": 2034}
+     
+     ]
+    },
+    {"name": "json", "size": 2034},
+    {"name": "JQuery", "size": 1534},
+    {
+     "name": "PHP", 
+     "children": [
+       {"name": "PHP", "size": 540}
+      ]
+     
+    }
+    
+   ]
+  }
+ ]
+}
