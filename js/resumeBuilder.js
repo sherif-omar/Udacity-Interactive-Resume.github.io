@@ -8,14 +8,14 @@ var bio = {
   "email": "mr.sherifomar@hotmail.com",
   "github": "sherifomar",
   "githubURL": "https://github.com/sherifomar?tab=repositories",
-  "twitter": "@sherifomar",
-  "twitterURL": "https://twitter.com/sherifomar",
+  "twitter": "-",
+  "twitterURL": "#",
   "linkedin": "sherifomar",
   "linkedinURL": "https://www.linkedin.com/in/sherifdeveloper",
   "location": "Mansourah, Egypt"
   },
 
- "skills": ["JavaScript ...",  "HTML/CSS ...", "Ruby on Rails ...", "AngularJS ...", "Jquery ...", "php", "Bootstrap"],
+ "skills": ["JavaScript,",  "HTML/CSS,", "Ruby on Rails,", "Jquery,Json ", "php,", "and Bootstrap."],
 
  "bioPic": "images/fry.jpg"
 }
@@ -94,7 +94,7 @@ var projects = {
 		{
 			"title": "Alpha Blog Application",
 			"dates": "2016",
-			"description": "In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included Jasmine and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.",
+			"description": "",
 			"images": [
 				""
 			]
@@ -103,23 +103,24 @@ var projects = {
 		{
 			"title": "Recipes Chef Application",
 			"dates": "2016",
-			"description": "In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included Jasmine and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.",
+			"description": "",
 			"images": [
 				""
 			]
 		},{
 			"title": "Finance Tracker Application",
 			"dates": "2016",
-			"description": "In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included Jasmine and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.",
+			"description": "",
 			"images": [
 				""
 			]
+			
 		},
 
 		{
 			"title": "Saas Application",
 			"dates": "2016",
-			"description": "In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included Jasmine and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.",
+			"description": "",
 			"images": [
 				""
 			]
@@ -224,7 +225,6 @@ $('#header').append();
 
 $("#topContacts").append(formattedmobile);
 $("#topContacts").append(formattedemail);
-$("#topContacts").append(formattedtwitter);
 $("#topContacts").append(formattedlinkedin);
 $("#topContacts").append(formattedgithub);
 $("#topContacts").append(formattedlocation);
@@ -234,7 +234,7 @@ $("#topContacts").append(formattedlocation);
 if (bio.skills.length > 0) {
     $("#header").append(HTMLskillsStart);
     var formattedSkill = HTMLskills.replace("%data%", bio.skills.join(" "));
-    $("#skills").append(formattedSkill);
+    $("#skills").addClass(" text-default").append(formattedSkill);
 }
 
 
@@ -385,7 +385,7 @@ function inName(name) {
 $("#footerContacts").append(formattedmobile);
 $("#footerContacts").append(formattedemail);
 $('#footerContacts').append(internationalizeButton);
-$("#footerContacts").append(formattedtwitter);
+$("#footerContacts").append(formattedgithub);
 $("#footerContacts").append(formattedlinkedin);
 
 // map section
