@@ -1,7 +1,7 @@
 Udacity-Interactive-Resume.github.io
 ======================
 
-Interactive Resume of Rohit Gupta
+Interactive Resume of Sherif Omar
 
 PROJECT Build a Portfolio Site
 PROJECT Interactive Resume
