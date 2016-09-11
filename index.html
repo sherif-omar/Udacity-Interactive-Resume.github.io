@@ -3,22 +3,21 @@
   <head>
     <link href="css/style.css" rel="stylesheet" type="text/css"></link>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"></link>
-    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
-    <link href="http://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
+    
 
     <script src="js/jQuery.js"></script>
     <script src="js/helper.js"></script>
-    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script src="js/d3.v3.min.js" charset="utf-8"></script>
-    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places"></script> 
+    
+    <script src="js/d3.v3.min.js" charset="utf-8"></script>
+   
 
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
-  <body class="container-fluid">
-    <div id="main"> 
+  <body class="row">
+    <div id="main" class="col-md-12"> 
       <div id="header" class="center-content">
-        <ul id="topContacts" class='flex-box'></ul>
+        <ul id="topContacts" class='flex-box row'></ul>
         <div style='clear: both;'></div>
       </div>
       <div style='clear: both;'></div>
@@ -41,13 +40,14 @@
                         <th class="bg-primary">Skill Type</th>
                         <th class="bg-primary">Skill Level</th>
                         <th class="bg-primary">Experience</th>
-                    </tr>
+                    </tr>    
+                    
                 </thead>
                 <tbody>
                     <tr>
                         <td>1</td>
                         <td>HTML/css</td>
-                        <td>Expert</td>
+                        <td>Medium</td>
                         <td>2+ years</td>
                     </tr>
                     <tr>
@@ -70,7 +70,7 @@
                     </tr>
                     <tr>
                         <td>5</td>
-                        <td>WebHosting(Cpanel-VistaPanel-Heroku-VPS)</td>
+                        <td>WebHosting(Cpanel-VistaPanel-Heroku-VPS-Amazone(AWS S3-Bucket)</td>
                         <td>Medium</td>
                         <td>2+ years</td>
                     </tr>
@@ -82,20 +82,37 @@
                     </tr>
                     <tr>
                         <td>7</td>
-                        <td>repository(Git-Github)</td>
+                        <td>Repository(Git-Github)</td>
                         <td>Medium</td>
                         <td>2+ years</td>
                     </tr>
-                    
+                    <tr>
+                        <td>8</td>
+                        <td>Operation system(Windows, Lunix(ubuntu - 1 year), Dos.) & M.S. Office.</td>
+                        <td>Medium</td>
+                        <td>15+ years</td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td>Financial Accounting & Data Entry.</td>
+                        <td>Medium</td>
+                        <td>2 years</td>
+                    </tr>
+                    <tr>
+                        <td>10</td>
+                        <td>Computer Hardware Maintenance.</td>
+                        <td>Medium</td>
+                        <td>-</td>
+                    </tr>
                 </tbody>
             </table>
         </div>
         <script src="js/myd3.js"></script>
       </div>
      
-      <div id="letsConnect" class='dark-gray'>
-        <h2 class='orange center-text'>Let's Connect</h2>
-        <ul id="footerContacts" class="flex-box">
+      <div id="letsConnect" class='dark-gray row'>
+        <h2 class='orange-text center-text'>Let's Connect</h2>
+        <ul id="footerContacts" class="flex-box col-md-offset-0">
         </ul>
       </div>
     </div>

@@ -15,7 +15,7 @@ var bio = {
   "location": "Mansourah, Egypt"
   },
 
- "skills": ["JavaScript,",  "HTML/CSS,", "Ruby on Rails,", "Jquery,Json ", "php,", "and Bootstrap."],
+ "skills": ["JavaScript,",  "HTML/CSS,", "Ruby on Rails,", "Jquery,Json, ", "php,", "and Bootstrap."],
 
  "bioPic": "images/fry.jpg"
 }
@@ -39,15 +39,17 @@ var projects = {
 	"projects": [
 		{
 			"title": "Build a Portfolio Site",
+			"url": "https://github.com/sherif-omar/Udacity-Build-a-Portfolio-Site",
 			"dates": "2015",
 			"description": "You will replicate a design mockup in HTML and CSS. You will develop a responsive website that will display images, descriptions and links to each of the portfolio projects you will complete throughout the course of the Front-End Web Developer Nanodegree.",
-			"images": [
+			"images": [""
 				
 			]
 		},
 
 		{
 			"title": "Interactive Resume",
+			"url": "https://github.com/sherif-omar/Udacity-Interactive-Resume.github.io",
 			"dates": "2015",
 			"description": "You will develop an interactive resume application that reads your resume content from a JSON file and dynamically displays that content within a provided template. You will use objects, functions, conditionals, and control structures to compose the content that will display on the resume.",
 			"images": [
@@ -57,6 +59,7 @@ var projects = {
 
 		{
 			"title": "Classic Arcade Game Clone",
+			"url": "https://github.com/sherif-omar/udacity-Classic-Arcade-Game",
 			"dates": "2015",
 			"description": "You will be provided with visual assets and a game loop engine; using these tools you must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.",
 			"images": [
@@ -66,6 +69,7 @@ var projects = {
 
 		{
 			"title": "Website Optimization",
+			"url": "https://github.com/sherif-omar/Udacity-nanodegree-mobile-portfolio",
 			"dates": "2015",
 			"description": "You will optimize a provided website with a number of optimization- and performance-related issues so that it achieves a target PageSpeed score and runs at 60 frames per second.",
 			"images": [
@@ -75,6 +79,7 @@ var projects = {
 
 		{
 			"title": "Neighborhood Map",
+			"url": "https://github.com/sherif-omar/Udacity-NeighborhoodMap",
 			"dates": "2015",
 			"description": "You will develop a single-page application featuring a map of your neighborhood or a neighborhood you would like to visit. You will then add additional functionality to this application, including: map markers to identify popular locations or places you’d like to visit, a search function to easily discover these locations, and a listview to support simple browsing of all locations. You will then research and implement third-party APIs that provide additional information about each of these locations (such as StreetView images, Wikipedia articles, Yelp reviews, etc).",
 			"images": [
@@ -84,6 +89,7 @@ var projects = {
 
 		{
 			"title": "Feed Reader Testing",
+			"url": "https://github.com/sherif-omar/Udacity-frontend-nanodegree-feedreader.github.io",
 			"dates": "2015",
 			"description": "In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included Jasmine and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.",
 			"images": [
@@ -93,6 +99,7 @@ var projects = {
 
 		{
 			"title": "Alpha Blog Application",
+			"url": "https://github.com/sherif-omar/AlphaBlog-ROR",
 			"dates": "2016",
 			"description": "",
 			"images": [
@@ -102,6 +109,7 @@ var projects = {
 
 		{
 			"title": "Recipes Chef Application",
+			"url": "https://github.com/sherif-omar/Recipe-Chef-App",
 			"dates": "2016",
 			"description": "",
 			"images": [
@@ -109,6 +117,7 @@ var projects = {
 			]
 		},{
 			"title": "Finance Tracker Application",
+			"url": "https://github.com/sherif-omar/finance-tracker-ror",
 			"dates": "2016",
 			"description": "",
 			"images": [
@@ -118,7 +127,8 @@ var projects = {
 		},
 
 		{
-			"title": "Saas Application",
+			"title": "photo - Application",
+			"url": "https://github.com/sherif-omar/photo-app-ror",
 			"dates": "2016",
 			"description": "",
 			"images": [
@@ -134,10 +144,10 @@ var education = {
 
 	"schools": [
 		{
-			"name": "Technology College , Mansourah",
+			"name": "Technology College - Institute of Technical Trading & Business.",
 			"years": "May-2010",
 			"city": "Mansourah, Egypt",
-			"degree": "Doctorate",
+			"degree": "Business Administration Diploma.",
 			"major": "Institute of Technical Trading & Business."
 		},
 		{
@@ -155,43 +165,50 @@ var education = {
 			"title": "HTML/CSS",
 			"school": "Codecademy",
 			"dates": 2015,
-			"urls" : "http://wwww.codecademy.com"
+			"urllink": "https://www.codecademy.com/learn/web",
+			"urls" : "www.codecademy.com"
 	
 		},{
 			"title": "JavaScript",
 			"school": "Codecademy",
 			"dates": 2015,
-			"urls" : "http://wwww.codecademy.com"
+			"urllink": "https://www.codecademy.com/learn/javascript",
+			"urls" : "www.codecademy.com"
 	
 		},{
 			"title": "php",
 			"school": "Codecademy",
 			"dates": 2015,
-			"urls" : "http://wwww.codecademy.com"
+			"urllink": "https://www.codecademy.com/tracks/php",
+			"urls" : "www.codecademy.com"
 	
 		},{
-			"title": "JavaScript Syntax",
+			"title": "JQuery",
 			"school": "Codecademy",
 			"dates": 2015,
-			"urls" : "http://wwww.codecademy.com"
+			"urllink": "",
+			"urls" : "www.codecademy.com"
 	
 		},{
-			"title": "The Startup's Guide to Web Development with Ruby On Rails",
+			"title": "The Complete Web Developer Course - Build 14 Websites",
 			"school": "Udemy",
 			"dates": 2015,
-			"urls" : "http://wwww.udemy.com"
+			"urllink": "https://www.udemy.com/complete-web-developer-course/learn/v4/",
+			"urls" : "www.udemy.com"
 
 		},{
 			"title": "The Professional Ruby on Rails Developer",
 			"school": "Udemy",
 			"dates": 2016,
-			"urls" : "http://wwww.udemy.com"
+			"urllink": "https://www.udemy.com/pro-rubyonrails/learn/v4/",
+			"urls" : "www.udemy.com"
 	
 		},{
 			"title": " The Complete Ruby on Rails Developer Course",
 			"school": "Udemy",
 			"dates": 2016,
-			"urls" : "http://wwww.udemy.com"
+			"urllink": "https://www.udemy.com/the-complete-ruby-on-rails-developer-course/learn/v4/",
+			"urls" : "www.udemy.com"
 		}
 
 	]
@@ -268,9 +285,11 @@ projects.display = function() {
 
    $("#projects").append(HTMLprojectStart);
 
-   var formattedTitle = HTMLprojectTitle.replace("%data%", projects.projects[project].title);
-   $(".project-entry:last").append(formattedTitle);
+   var formattedTitle = HTMLprojectUrl.replace("%datatitle%", projects.projects[project].title);
 
+	var formattedTitle = formattedTitle.replace("%dataurl%", projects.projects[project].url);
+   $(".project-entry:last").append(formattedTitle);
+   
    var formattedDates = HTMLprojectDates.replace("%data%", projects.projects[project].dates);
    $(".project-entry:last").append(formattedDates);
 
@@ -323,8 +342,8 @@ function displayonlinecourses() {
 
   $(".education-entry:last").append(HTMLonlineClasses);
   for (course in education.onlineCourse) {
-
-	  var formattedonlineTitle =  HTMLonlineTitle.replace("%data%", education.onlineCourse[course].title);
+	var formattedonlineUrl =  HTMLonlineTitle.replace("%dataurl%", education.onlineCourse[course].urllink);
+	  var formattedonlineTitle =  formattedonlineUrl.replace("%data%", education.onlineCourse[course].title);
 	  $(".education-entry:last").append(formattedonlineTitle);
 	  
 	  var formattedonlineDates =  HTMLonlineDates.replace("%data%", education.onlineCourse[course].dates);
@@ -333,8 +352,8 @@ function displayonlinecourses() {
 	  var formattedonlineSchool =  HTMLonlineSchool.replace("%data%", education.onlineCourse[course].school);
 	  $(".education-entry:last").append(formattedonlineSchool);
 	   
-	  var formattedonlineUrl =  HTMLonlineURL.replace("%data%", education.onlineCourse[course].urls);
-	  $(".education-entry:last").append(formattedonlineUrl);
+	  var formattedonlineUrl =  formattedonlineUrl.replace("%data%", education.onlineCourse[course].urls);
+	  $(".education-entry:last").append(formattedonlineUrl).append("<hr/>");
 
   }	
 			 
@@ -384,10 +403,6 @@ function inName(name) {
 
 $("#footerContacts").append(formattedmobile);
 $("#footerContacts").append(formattedemail);
-$('#footerContacts').append(internationalizeButton);
+//$('#footerContacts').append(internationalizeButton);
 $("#footerContacts").append(formattedgithub);
 $("#footerContacts").append(formattedlinkedin);
-
-// map section
-
-//$("#mapDiv").append(googleMap);
