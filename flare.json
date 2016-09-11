@@ -20,6 +20,7 @@
      
      ]
     },{ "name": "javascript", "size": 2000
+    },{ "name": "Data Entry", "size": 500
     },
     {
      "name": "Command Line", "size": 540
@@ -33,6 +34,10 @@
     },
     {"name": "json", "size": 2034},
     {"name": "JQuery", "size": 1534},
+    {"name": "Web Hosting", "size": 1534},
+    {"name": "E-cloud", "size": 1534},
+    {"name": "GIT", "size": 1034},
+    {"name": "GITHUB", "size": 1534},
     {
      "name": "PHP", 
      "children": [

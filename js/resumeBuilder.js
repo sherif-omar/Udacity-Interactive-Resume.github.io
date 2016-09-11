@@ -6,11 +6,11 @@ var bio = {
  "contacts": {
   "mobile": "(002) 011-506-02332",
   "email": "mr.sherifomar@hotmail.com",
-  "github": "sherifomar",
+  "github": "SherifOmar",
   "githubURL": "https://github.com/sherif-omar",
   "twitter": "-",
   "twitterURL": "#",
-  "linkedin": "sherifomar",
+  "linkedin": "SherifOmar",
   "linkedinURL": "https://www.linkedin.com/in/sherifdeveloper",
   "location": "Mansourah, Egypt"
   },
@@ -42,9 +42,7 @@ var projects = {
 			"url": "https://github.com/sherif-omar/Udacity-Build-a-Portfolio-Site",
 			"dates": "2015",
 			"description": "You will replicate a design mockup in HTML and CSS. You will develop a responsive website that will display images, descriptions and links to each of the portfolio projects you will complete throughout the course of the Front-End Web Developer Nanodegree.",
-			"images": [""
-				
-			]
+			"images": [""]
 		},
 
 		{
@@ -52,9 +50,7 @@ var projects = {
 			"url": "https://github.com/sherif-omar/Udacity-Interactive-Resume.github.io",
 			"dates": "2015",
 			"description": "You will develop an interactive resume application that reads your resume content from a JSON file and dynamically displays that content within a provided template. You will use objects, functions, conditionals, and control structures to compose the content that will display on the resume.",
-			"images": [
-				""
-			]
+			"images": [""]
 		},
 
 		{
@@ -62,9 +58,7 @@ var projects = {
 			"url": "https://github.com/sherif-omar/udacity-Classic-Arcade-Game",
 			"dates": "2015",
 			"description": "You will be provided with visual assets and a game loop engine; using these tools you must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.",
-			"images": [
-				""
-			]
+			"images": [""]
 		},
 
 		{
@@ -72,9 +66,7 @@ var projects = {
 			"url": "https://github.com/sherif-omar/Udacity-nanodegree-mobile-portfolio",
 			"dates": "2015",
 			"description": "You will optimize a provided website with a number of optimization- and performance-related issues so that it achieves a target PageSpeed score and runs at 60 frames per second.",
-			"images": [
-				""
-			]
+			"images": [""]
 		},
 
 		{
@@ -82,9 +74,7 @@ var projects = {
 			"url": "https://github.com/sherif-omar/Udacity-NeighborhoodMap",
 			"dates": "2015",
 			"description": "You will develop a single-page application featuring a map of your neighborhood or a neighborhood you would like to visit. You will then add additional functionality to this application, including: map markers to identify popular locations or places you’d like to visit, a search function to easily discover these locations, and a listview to support simple browsing of all locations. You will then research and implement third-party APIs that provide additional information about each of these locations (such as StreetView images, Wikipedia articles, Yelp reviews, etc).",
-			"images": [
-				""
-			]
+			"images": [""]
 		},
 
 		{
@@ -92,48 +82,50 @@ var projects = {
 			"url": "https://github.com/sherif-omar/Udacity-frontend-nanodegree-feedreader.github.io",
 			"dates": "2015",
 			"description": "In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included Jasmine and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.",
-			"images": [
-				""
-			]
+			"images": [""]
+		},{
+			"title": "calculator + CarLoan + Rock-Paper-Scissors + TicTacToe (Ruby)",
+			"url": "https://github.com/sherif-omar/Launch-School/tree/master/Programming%20Foundations",
+			"dates": "2016",
+			"description": "",
+			"images": [""]
+		},{
+			"title": "Rock-Paper-Scissors + Rock-Paper-Scissors(Ruby - OOP)",
+			"url": "https://github.com/sherif-omar/Launch-School/tree/master/oop",
+			"dates": "2016",
+			"description": "",
+			"images": [""]
 		},
 
 		{
-			"title": "Alpha Blog Application",
+			"title": "Alpha Blog Application(RubyOnRails)",
 			"url": "https://github.com/sherif-omar/AlphaBlog-ROR",
 			"dates": "2016",
 			"description": "",
-			"images": [
-				""
-			]
+			"images": [""]
 		},
 
 		{
-			"title": "Recipes Chef Application",
+			"title": "Recipes Chef Application(RubyOnRails)",
 			"url": "https://github.com/sherif-omar/Recipe-Chef-App",
 			"dates": "2016",
 			"description": "",
-			"images": [
-				""
-			]
+			"images": [""]
 		},{
-			"title": "Finance Tracker Application",
+			"title": "Finance Tracker Application(RubyOnRails)",
 			"url": "https://github.com/sherif-omar/finance-tracker-ror",
 			"dates": "2016",
 			"description": "",
-			"images": [
-				""
-			]
+			"images": [""]
 			
 		},
 
 		{
-			"title": "photo - Application",
+			"title": "photo Application(RubyOnRails)",
 			"url": "https://github.com/sherif-omar/photo-app-ror",
 			"dates": "2016",
 			"description": "",
-			"images": [
-				""
-			]
+			"images": [""]
 		}
 
 	]
