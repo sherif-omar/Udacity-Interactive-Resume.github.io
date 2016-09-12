@@ -77,37 +77,37 @@ var projects = {
 			"title": "calculator (Ruby)",
 			"url": "https://github.com/sherif-omar/Launch-School/blob/master/Programming%20Foundations/calculator.rb",
 			"dates": "2016",
-			"description": "in these projects i learn basics of ruby language frist project i make calculator project and second project i make carloan project to calaculate how much to  ",
+			"description": "In this project i build command line calculator program that does the following:<br/>1- asks for two numbers.<br/>2- asks for the type of operation to perform: add, subtract, multiply or divide.<br/>3- displays the result. ",
 			"images": [""]
 		},{
 			"title": "CarLoan (Ruby)",
 			"url": "https://github.com/sherif-omar/Launch-School/blob/master/Programming%20Foundations/carloan.rb",
 			"dates": "2016",
-			"description": "in these projects i learn basics of ruby language frist project i make calculator project and second project i make carloan project to calaculate how much to  ",
+			"description": "CarLoan project is car payment calculator and you need to input the loan amount, input the Annual percentage rate and the loan duration.<br />you'll need to calculate the following two things:<br />1- monthly interest rate<br />2- loan duration in months.",
 			"images": [""]
 		},{
 			"title": "Rock-Paper-Scissors (Ruby)",
 			"url": "https://github.com/sherif-omar/Launch-School/blob/master/Programming%20Foundations/rock_paper_scissors.rb",
 			"dates": "2016",
-			"description": "in these projects i learn basics of ruby language frist project i make calculator project and second project i make carloan project to calaculate how much to  ",
+			"description": "Rock Paper Scissors is a game in which you can play with the computer. The player choose a card, then the computer choose a card.finally. the winner is displayed.",
 			"images": [""]
 		},{
-			"title": "TicTacToe (Ruby)",
+			"title": "Tic-Tac-Toe (Ruby)",
 			"url": "https://github.com/sherif-omar/Launch-School/blob/master/Programming%20Foundations/tictactoe.rb",
 			"dates": "2016",
-			"description": "in these projects i learn basics of ruby language frist project i make calculator project and second project i make carloan project to calaculate how much to  ",
+			"description": "Tic Tac Toe is a 2 player game played on a 3x3 board. Each player takes a turn and marks a square on the board. The first player have to reach 3 squares in a row, including diagonals, wins. If all 9 squares are marked and no player has 3 squares in a row, then the game is a tie. <br /><br />That's a generic description:<br />1. Display the initial empty 3x3 board.<br />2. Ask the user to mark a square.<br />3. Computer marks a square.<br />4. Display the updated board state.<br />5. If winner, display winner.<br />6. If board is full, display tie.<br />7. If neither winner nor board is full, go to #2<br />8. Play again?<br />9. If yes, go to #1<br />10. Good bye!",
 			"images": [""]
 		},{
 			"title": "Rock-Paper-Scissors (Ruby - OOP)",
 			"url": "https://github.com/sherif-omar/Launch-School/blob/master/oop/oop_rps.rb",
 			"dates": "2016",
-			"description": "",
+			"description": "Rock Paper Scissors is a game which the user makes a choice,the computer makes a choice and the winner is displayed.<br/>i'm write a textual description of the problem or exercise. and extract the major nouns and verbs from the description and organize and associate the verbs with the nouns and the nouns are the classes and the verbs are the behaviors or methods.",
 			"images": [""]
 		},{
-			"title": "Rock-Paper-Scissors(Ruby - OOP)",
+			"title": "Tic-Tac-Toe (Ruby - OOP)",
 			"url": "https://github.com/sherif-omar/Launch-School/blob/master/oop/oottt.rb",
 			"dates": "2016",
-			"description": "",
+			"description": "Tic Tac Toe is a 2-player board game played on a 3x3 grid. Players take turns marking a square. The first player to mark 3 squares in a row wins, i'm Write a description of the problem and extract major nouns and verbs, i make an initial guess at organizing the verbs into nouns and do a spike to explore the problem with temporary code and  when you have a better idea of the problem, model your thoughts into CRC cards.",
 			"images": [""]
 		},{
 			"title": "Alpha Blog Application(RubyOnRails)",
