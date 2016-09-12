@@ -43,69 +43,79 @@ var projects = {
 			"dates": "2015",
 			"description": "You will replicate a design mockup in HTML and CSS. You will develop a responsive website that will display images, descriptions and links to each of the portfolio projects you will complete throughout the course of the Front-End Web Developer Nanodegree.",
 			"images": [""]
-		},
-
-		{
+		},{
 			"title": "Interactive Resume",
 			"url": "https://github.com/sherif-omar/Udacity-Interactive-Resume.github.io",
 			"dates": "2015",
 			"description": "You will develop an interactive resume application that reads your resume content from a JSON file and dynamically displays that content within a provided template. You will use objects, functions, conditionals, and control structures to compose the content that will display on the resume.",
 			"images": [""]
-		},
-
-		{
+		},{
 			"title": "Classic Arcade Game Clone",
 			"url": "https://github.com/sherif-omar/udacity-Classic-Arcade-Game",
 			"dates": "2015",
 			"description": "You will be provided with visual assets and a game loop engine; using these tools you must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.",
 			"images": [""]
-		},
-
-		{
+		},{
 			"title": "Website Optimization",
 			"url": "https://github.com/sherif-omar/Udacity-nanodegree-mobile-portfolio",
 			"dates": "2015",
 			"description": "You will optimize a provided website with a number of optimization- and performance-related issues so that it achieves a target PageSpeed score and runs at 60 frames per second.",
 			"images": [""]
-		},
-
-		{
+		},{
 			"title": "Neighborhood Map",
 			"url": "https://github.com/sherif-omar/Udacity-NeighborhoodMap",
 			"dates": "2015",
 			"description": "You will develop a single-page application featuring a map of your neighborhood or a neighborhood you would like to visit. You will then add additional functionality to this application, including: map markers to identify popular locations or places you’d like to visit, a search function to easily discover these locations, and a listview to support simple browsing of all locations. You will then research and implement third-party APIs that provide additional information about each of these locations (such as StreetView images, Wikipedia articles, Yelp reviews, etc).",
 			"images": [""]
-		},
-
-		{
+		},{
 			"title": "Feed Reader Testing",
 			"url": "https://github.com/sherif-omar/Udacity-frontend-nanodegree-feedreader.github.io",
 			"dates": "2015",
 			"description": "In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included Jasmine and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.",
 			"images": [""]
 		},{
-			"title": "calculator + CarLoan + Rock-Paper-Scissors + TicTacToe (Ruby)",
-			"url": "https://github.com/sherif-omar/Launch-School/tree/master/Programming%20Foundations",
+			"title": "calculator (Ruby)",
+			"url": "https://github.com/sherif-omar/Launch-School/blob/master/Programming%20Foundations/calculator.rb",
+			"dates": "2016",
+			"description": "in these projects i learn basics of ruby language frist project i make calculator project and second project i make carloan project to calaculate how much to  ",
+			"images": [""]
+		},{
+			"title": "CarLoan (Ruby)",
+			"url": "https://github.com/sherif-omar/Launch-School/blob/master/Programming%20Foundations/carloan.rb",
+			"dates": "2016",
+			"description": "in these projects i learn basics of ruby language frist project i make calculator project and second project i make carloan project to calaculate how much to  ",
+			"images": [""]
+		},{
+			"title": "Rock-Paper-Scissors (Ruby)",
+			"url": "https://github.com/sherif-omar/Launch-School/blob/master/Programming%20Foundations/rock_paper_scissors.rb",
+			"dates": "2016",
+			"description": "in these projects i learn basics of ruby language frist project i make calculator project and second project i make carloan project to calaculate how much to  ",
+			"images": [""]
+		},{
+			"title": "TicTacToe (Ruby)",
+			"url": "https://github.com/sherif-omar/Launch-School/blob/master/Programming%20Foundations/tictactoe.rb",
+			"dates": "2016",
+			"description": "in these projects i learn basics of ruby language frist project i make calculator project and second project i make carloan project to calaculate how much to  ",
+			"images": [""]
+		},{
+			"title": "Rock-Paper-Scissors (Ruby - OOP)",
+			"url": "https://github.com/sherif-omar/Launch-School/blob/master/oop/oop_rps.rb",
 			"dates": "2016",
 			"description": "",
 			"images": [""]
 		},{
-			"title": "Rock-Paper-Scissors + Rock-Paper-Scissors(Ruby - OOP)",
-			"url": "https://github.com/sherif-omar/Launch-School/tree/master/oop",
+			"title": "Rock-Paper-Scissors(Ruby - OOP)",
+			"url": "https://github.com/sherif-omar/Launch-School/blob/master/oop/oottt.rb",
 			"dates": "2016",
 			"description": "",
 			"images": [""]
-		},
-
-		{
+		},{
 			"title": "Alpha Blog Application(RubyOnRails)",
 			"url": "https://github.com/sherif-omar/AlphaBlog-ROR",
 			"dates": "2016",
-			"description": "",
+			"description": "Alpha blog is the frist web application in rails and i make a blog in with categories and i used gem bootstrap and basics rails",
 			"images": [""]
-		},
-
-		{
+		},{
 			"title": "Recipes Chef Application(RubyOnRails)",
 			"url": "https://github.com/sherif-omar/Recipe-Chef-App",
 			"dates": "2016",
@@ -118,9 +128,7 @@ var projects = {
 			"description": "",
 			"images": [""]
 			
-		},
-
-		{
+		},{
 			"title": "photo Application(RubyOnRails)",
 			"url": "https://github.com/sherif-omar/photo-app-ror",
 			"dates": "2016",
@@ -179,6 +187,13 @@ var education = {
 			"school": "Codecademy",
 			"dates": 2015,
 			"urllink": "",
+			"urls" : "www.codecademy.com"
+	
+		},{
+			"title": "leeftree",
+			"school": "Codecademy",
+			"dates": 2015,
+			"urllink": "https://www.codecademy.com/tracks/php",
 			"urls" : "www.codecademy.com"
 	
 		},{
