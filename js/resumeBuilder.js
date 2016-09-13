@@ -110,29 +110,29 @@ var projects = {
 			"description": "Tic Tac Toe is a 2-player board game played on a 3x3 grid. Players take turns marking a square. The first player to mark 3 squares in a row wins, i'm Write a description of the problem and extract major nouns and verbs, i make an initial guess at organizing the verbs into nouns and do a spike to explore the problem with temporary code and  when you have a better idea of the problem, model your thoughts into CRC cards.",
 			"images": [""]
 		},{
-			"title": "Alpha Blog Application(RubyOnRails)",
+			"title": "Alpha Blog Application (RubyOnRails)",
 			"url": "https://github.com/sherif-omar/AlphaBlog-ROR",
 			"dates": "2016",
-			"description": "Alpha blog is the frist web application in rails and i make a blog in with categories and i used gem bootstrap and basics rails",
+			"description": "Alpha blog is the frist web application in rails. I make a blog with categories. I have user authenticate and admin system, I'm using bootstrap gem and will_paginate gem. I configure sqlite3 database to development and postgresql database to production.",
 			"images": [""]
 		},{
-			"title": "Recipes Chef Application(RubyOnRails)",
+			"title": "Recipes Chef Application (RubyOnRails)",
 			"url": "https://github.com/sherif-omar/Recipe-Chef-App",
 			"dates": "2016",
-			"description": "",
+			"description": "Recipes chef application used to make many recipes step by step. I used many gems (devise - mini-magick - carrierwave - twitter-bootstrap-rails - devise-bootstrap-views). I configure sqlite3 database to development and postgresql database to production.",
 			"images": [""]
 		},{
-			"title": "Finance Tracker Application(RubyOnRails)",
+			"title": "Finance Tracker Application (RubyOnRails)",
 			"url": "https://github.com/sherif-omar/finance-tracker-ror",
 			"dates": "2016",
-			"description": "",
+			"description": "Finance Tracker Application used to make many tracker for stocks and select type of account for user (free  - premuim) and added friendship system. I used many gems (devise - stock-qoute - twitter-bootstrap-rails - devise-bootstrap-views).I configure sqlite3 database to development and test and postgresql database to production.",
 			"images": [""]
 			
 		},{
-			"title": "photo Application(RubyOnRails)",
+			"title": "photo Application (RubyOnRails)",
 			"url": "https://github.com/sherif-omar/photo-app-ror",
 			"dates": "2016",
-			"description": "",
+			"description": "Photo application used to save photo and  user can be select type of account form  plans. i used stripe payment and amazon web servies (s3-bucket) to upload and save photo online.i used many gems (devise - stripe - carrierwave - mini_magick - fog - twitter-bootstrap-rails - devise-bootstrap-views).I configure sqlite3 database to development and postgresql database to production.",
 			"images": [""]
 		}
 
@@ -190,11 +190,11 @@ var education = {
 			"urls" : "www.codecademy.com"
 	
 		},{
-			"title": "leeftree",
-			"school": "Codecademy",
+			"title": "Programming Foundations and Object Oriented Programming",
+			"school": "Launch School",
 			"dates": 2015,
-			"urllink": "https://www.codecademy.com/tracks/php",
-			"urls" : "www.codecademy.com"
+			"urllink": "https://launchschool.com/course_catalog",
+			"urls" : "www.launchschool.com"
 	
 		},{
 			"title": "The Complete Web Developer Course - Build 14 Websites",
@@ -283,7 +283,7 @@ function displayWork() {
     }
 }
 
-displayWork();
+//displayWork();
 
 // End of Work Experience section
 
