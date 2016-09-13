@@ -125,7 +125,7 @@ var projects = {
 			"title": "Finance Tracker Application (RubyOnRails)",
 			"url": "https://github.com/sherif-omar/finance-tracker-ror",
 			"dates": "2016",
-			"description": "Finance Tracker Application used to make many tracker for stocks and select type of account for user (free  - premuim) and added friendship system. I used many gems (devise - stock-qoute - twitter-bootstrap-rails - devise-bootstrap-views).I configure sqlite3 database to development and test and postgresql database to production.",
+			"description": "Finance Tracker Application used to make many tracker for stocks and added friendship system. I used many gems (devise - stock-qoute - twitter-bootstrap-rails - devise-bootstrap-views).I configure sqlite3 database to development and test and postgresql database to production.",
 			"images": [""]
 			
 		},{
