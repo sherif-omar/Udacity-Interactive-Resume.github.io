@@ -134,6 +134,12 @@ var projects = {
 			"dates": "2016",
 			"description": "Photo application used to save photo and  user can be select type of account form  plans. i used stripe payment and amazon web servies (s3-bucket) to upload and save photo online.i used many gems (devise - stripe - carrierwave - mini_magick - fog - twitter-bootstrap-rails - devise-bootstrap-views).I configure sqlite3 database to development and postgresql database to production.",
 			"images": [""]
+		},{
+			"title": "Redmine CRM(RubyOnRails)",
+			"url": "#",
+			"dates": "2016",
+			"description": "I'm begin to used this system, I installed this system on (ubuntu-windows), I build plugin to custom menus and removed overview,activity from project menu, make any themes.I change logo from text to picture.",
+			"images": [""]
 		}
 
 	]
