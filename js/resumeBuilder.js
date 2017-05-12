@@ -153,7 +153,7 @@ var education = {
 			"name": "Technology College - Institute of Technical Trading & Business.",
 			"years": "May-2010",
 			"city": "Mansourah, Egypt",
-			"degree": "Business Administration Diploma.",
+			"degree": "Marketing Diploma.",
 			"major": "Institute of Technical Trading & Business."
 		},
 		{
