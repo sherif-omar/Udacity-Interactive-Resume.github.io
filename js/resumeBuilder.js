@@ -5,7 +5,7 @@ var bio = {
 
  "contacts": {
   "mobile": "(002) 011-506-02332",
-  "email": "dev.sherifomar@gmail.com",
+  "email": " dev.sherifomar@gmail.com",
   "github": "SherifOmar",
   "githubURL": "https://github.com/sherif-omar",
   "twitter": "-",
